@@ -1,7 +1,7 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"ConvertToUTF8",
 		"Package Control",
 		"Ruby Extract Method"
 	]

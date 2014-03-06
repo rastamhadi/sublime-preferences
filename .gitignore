@@ -4,3 +4,4 @@ Package Control.system-ca-bundle
 *.sublime-project
 *.sublime-workspace
 *.cache
+encoding_cache.json

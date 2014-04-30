@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Case Conversion",
 		"ConvertToUTF8",
 		"Package Control",
 		"Ruby Extract Method"

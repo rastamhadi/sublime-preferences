@@ -3,6 +3,7 @@
 	{ "keys": ["ctrl+shift+k"], "command": "find_under_expand" },
 	{ "keys": ["ctrl+shift+right"], "command": "indent" },
 	{ "keys": ["ctrl+shift+left"], "command": "unindent" },
+	{ "keys": ["super+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
 	{
 		"keys": ["enter"],
 		"command": "move",

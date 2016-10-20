@@ -8,6 +8,7 @@
 		"Guardfile",
 		"Vagrantfile",
 		"feature",
+		"recipe",
 		"thor"
 	],
 	"indent_guide_options":

@@ -6,4 +6,5 @@
 2. `cd` into the `Packages` directory.
 3. Clone this repository into the `User` directory.<br>
    `$ git clone git@github.com:rastamhadi/sublime-preferences.git User`
-4. Install [Package Control](https://sublime.wbond.net/installation)
+4. Install [Package Control](https://sublime.wbond.net/installation).
+5. Install [Migu 1M Regular](http://mix-mplus-ipa.osdn.jp/migu/) font.
